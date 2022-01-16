@@ -25,8 +25,8 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url(' 🇳🇴 Norway Chat', 'https://t.me/NorwayChat'),
-        Button.url('⚜️ Sahib', 'https://t.me/Vusaldeveloper')
+        Button.url(' 👨🏻‍💻 Sahibim', 'https://t.me/Vusaldeveloper'),
+        Button.url('📣 Kanal', 'https://t.me/BTTBotlarim')
       ]
     )
   )
@@ -39,8 +39,8 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('🇳🇴 Norway Chat', 'https://t.me/NorwayChat'),
-        Button.url('⚜️ Sahib', 'https://t.me/Vusaldeveloper')
+        Button.url('👨🏻‍💻 Sahibim', 'https://t.me/Vusaldeveloper'),
+        Button.url('📣 Kanal', 'https://t.me/BTTBotlarim')
       ]
     )
   )
