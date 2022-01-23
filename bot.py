@@ -26,7 +26,7 @@ async def start(event):
     buttons=(
       [
         Button.url(' 👨🏻‍💻 Sahibim', 'https://t.me/Vusaldeveloper'),
-        Button.url('𝙽𝙾𝚁𝚆𝙰𝚈 𝙲𝙷𝙰𝚃 🇳🇴', 'https://t.me/NorwayChat')
+        Button.url('📣 Kanal', 'https://t.me/VusalBotlar')
       ]
     )
   )
@@ -40,7 +40,7 @@ async def help(event):
     buttons=(
       [
         Button.url('👨🏻‍💻 Sahibim', 'https://t.me/Vusaldeveloper'),
-        Button.url('𝙽𝙾𝚁𝚆𝙰𝚈 𝙲𝙷𝙰𝚃 🇳🇴', 'https://t.me/NorwayChat')
+        Button.url('📣 Support', 'https://t.me/VusalBotlarSupport')
       ]
     )
   )
