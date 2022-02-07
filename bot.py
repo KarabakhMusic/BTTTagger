@@ -2,7 +2,7 @@
 
 
 print(">> BOT STARTED <<")
-client.run_until_disconnected()
+
 @client.on(events.NewMessage(pattern="^/tektag ?(.*)"))
 async def tektag(event):
   global aykhan_tag
