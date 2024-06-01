@@ -3,7 +3,7 @@
 
 print(">> BOT STARTED <<")
 
-@client.on(events.NewMessage(pattern="^/tektag ?(.*)"))
+@client.on(events.NewMessage(pattern='^/tektag'))
 async def tektag(event):
   global aykhan_tag
   if event.is_private:
